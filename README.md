@@ -1,16 +1,39 @@
-### Hi there 👋
+import styled from "@emotion/styled";
+import { useEffect, useState } from "react";
+import GitHubCalendar from "react-github-calendar";
+import ReactTooltip from "react-tooltip";
 
-<!--
-**rhalsemd/rhalsemd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+export default function GithubChart(props: { githubId: string }) {
+  // 렌더링 전에 react-tooltip을 불러오지 않게 하기 위해 사용
+  const [isMounted, setIsMounted] = useState(false);
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
 
-Here are some ideas to get you started:
+  return (
+    <>
+      <Wrapper>
+       {isMounted && (
+          <GitHubCalendar
+            username={props.githubId}
+            labels={{
+              totalCount: "Learn how we count contributions",
+            }}
+            showWeekdayLabels
+          >
+            <ReactTooltip html />
+          </GitHubCalendar>
+        )}
+      </Wrapper>
+    </>
+  );
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const Wrapper = styled.div`
+  background-color: white;
+  padding: 20px;
+`;
+
+const Chart = styled.img`
+  width: 855px;
+`;
