@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=square&logo=Redis&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/yolo-00FFFF?style=square&logo=yolo&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=square&logo=Google Colab&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Raspberry Pi-#A22846?style=square&logo=Raspberry Pi&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=GitLab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NFC-002E5F?style=square&logo=NFC&logoColor=white"/></a>
