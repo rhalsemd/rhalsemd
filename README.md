@@ -24,6 +24,29 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=TensorFlow&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=square&logo=OpenCV&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=square&logo=MariaDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=square&logo=ONNX&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=square&logo=Jira&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=Docker&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=square&logo=Jenkins&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=square&logo=Swagger&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=square&logo=Redis&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/yolo-00FFFF?style=square&logo=yolo&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=square&logo=Google Colab&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Raspberry Pi-#A22846?style=square&logo=Raspberry Pi&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=GitLab&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/NFC-002E5F?style=square&logo=NFC&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=square&logo=PHP&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=square&logo=npm&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=square&logo=IntelliJ IDEA&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=square&logo=FileZilla&logoColor=white"/></a>
+  
 </div>
   <div align=center>
 	
