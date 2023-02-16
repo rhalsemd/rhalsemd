@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=square&logo=IntelliJ IDEA&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=square&logo=FileZilla&logoColor=white"/></a>
-  
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=square&logo=Arduino&logoColor=white"/></a>
 </div>
   <div align=center>
 	
