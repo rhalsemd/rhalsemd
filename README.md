@@ -6,7 +6,10 @@
 </div>
 
 <div align=center>
-	[![Solved.ac Profile]http://mazassumnida.wtf/api/generate_badge?boj=rhalsemd](https://solved.ac/rhalsemd)<br/>
+<h2>🏆 Baekjoon solved rank</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalsemd)](https://solved.ac/rhalsemd)<br/>
+
 </div>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   </br>
