@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Introduce%20Myself&fontSize=90" />
-
-<img src="https://ghchart.rshah.org/rhalsemd" />
-
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Introduce%20Myself&fontSize=90" />
+</div>
+<div align=center>
+	<img src="https://ghchart.rshah.org/rhalsemd" />
+</div>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   </br>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" />
