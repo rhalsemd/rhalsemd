@@ -19,12 +19,12 @@
 
 </div>
 
-<div>
+<div align=center>
 	<h2>💫 Most Used Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)
 </div>
-<div style="display: flex; align-items: flex-start; justify-content: center;">
+<div align=center style="display: flex; align-items: flex-start; justify-content: center;">
 	<h2>🏆 Langauge Skill</h2>
   </br>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" />
