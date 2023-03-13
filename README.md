@@ -1,8 +1,15 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Introduce%20Myself&fontSize=90" />
+	<h2>👌 Introduction</h2>
+	안녕하세요! 백엔드로서 프로젝트를 여럿 수행한 바 있으며,<br>
+	현재는 공부중인 정명관 입니다.<br><br>
+	백엔드에 주로 관심있고 프로젝트를 진행 중 입니다.,<br>
+	아직 부족한 점이 많기 때문에 열심히 기술스택을 쌓고 프로젝트를 통해 발전 중 입니다!<br>
 </div>
 <div align=center>
+	<h2>🏆 Github </h2>
 	<img src="https://ghchart.rshah.org/rhalsemd" />
+	<img src="https://github-readme-stats.vercel.app/api?username=rhalsemd&show_icons=true">
 </div>
 
 <div align=center>
@@ -11,7 +18,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalsemd)](https://solved.ac/rhalsemd)<br/>
 
 </div>
+
+<div>
+	<h2>💫 Most Used Languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)]
+</div>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
+	<h2>🏆 Langauge Skill</h2>
   </br>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
