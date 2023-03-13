@@ -7,7 +7,7 @@
 
 <div align=center>
 	[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={rhalsemd})](https://solved.ac/{rhalsemd})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhalsemd)](https://solved.ac/rhalsemd)
 </div>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   </br>
