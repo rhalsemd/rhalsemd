@@ -73,6 +73,9 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=square&logo=Arduino&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=square&logo=Ethereum&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Blockchain.com-121D33?style=square&logo=Blockchain.com&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=square&logo=VirtualBox&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=square&logo=Vagrant&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Hyperledger Fabric-2F3134?style=square&logo=Hyperledger Fabric&logoColor=white"/></a>
 </div>
   <div align=center>
 	
