@@ -71,6 +71,8 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=square&logo=IntelliJ IDEA&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=square&logo=FileZilla&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=square&logo=Arduino&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=square&logo=Ethereum&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Blockchain.com-121D33?style=square&logo=Blockchain.com&logoColor=white"/></a>
 </div>
   <div align=center>
 	
