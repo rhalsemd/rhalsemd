@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=square&logo=Anaconda&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=TensorFlow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=square&logo=OpenCV&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=square&logo=MariaDB&logoColor=white"/></a>
@@ -84,7 +86,7 @@
   <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=square&logo=Microsoft Word&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=square&logo=Microsoft PowerPoint&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=square&logo=Microsoft Excel&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=Go&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Google Sheets-34A853?style=square&logo=Google Sheets&logoColor=white"/></a>
 </div>
   <div align=center>
 	</br>
