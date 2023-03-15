@@ -79,9 +79,15 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=square&logo=Solidity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Remix-000000?style=square&logo=Remix&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=Go&logoColor=white"/></a>
+  
+  </br>
+  <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=square&logo=Microsoft Word&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=square&logo=Microsoft PowerPoint&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=square&logo=Microsoft Excel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=Go&logoColor=white"/></a>
 </div>
   <div align=center>
-	
+	</br>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
