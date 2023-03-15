@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Hibernate-59666CF?style=square&logo=Hibernate&logoColor=white"/></a>
@@ -83,16 +82,13 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=square&logo=Solidity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Remix-000000?style=square&logo=Remix&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=Go&logoColor=white"/></a>
-  
   </br>
   <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=square&logo=Microsoft Word&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=square&logo=Microsoft PowerPoint&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=square&logo=Microsoft Excel&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google Sheets-34A853?style=square&logo=Google Sheets&logoColor=white"/></a>
-  
   </br>
 </div>
-  <div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
+<div align=center>
+	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+</div>
