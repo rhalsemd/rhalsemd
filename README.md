@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=square&logo=pandas&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=square&logo=Anaconda&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=square&logo=Mattermost&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=TensorFlow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=square&logo=OpenCV&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=square&logo=MariaDB&logoColor=white"/></a>
