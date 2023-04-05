@@ -37,6 +37,9 @@
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="58" height="58" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="58" height="58" />
   </br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -60,7 +63,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=square&logo=Redis&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/yolo-00FFFF?style=square&logo=yolo&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=square&logo=Google Colab&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=GitLab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NFC-002E5F?style=square&logo=NFC&logoColor=white"/></a>
