@@ -86,11 +86,6 @@
   <img src="https://img.shields.io/badge/Remix-000000?style=square&logo=Remix&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=Go&logoColor=white"/></a>
   </br>
-  <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=square&logo=Microsoft Word&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=square&logo=Microsoft PowerPoint&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=square&logo=Microsoft Excel&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Google Sheets-34A853?style=square&logo=Google Sheets&logoColor=white"/></a>
-  </br>
 </div>
 <div align=center>
 
