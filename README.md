@@ -12,7 +12,7 @@
 <div align=center>
 	<h2>🏆 Github </h2>
 	<img src="https://ghchart.rshah.org/rhalsemd" />
-	<img src="https://github-readme-stats.vercel.app/api?username=rhalsemd&show_icons=true">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rhalsemd&show_icons=true">
 </div>
 
 <div align=center>
