@@ -50,9 +50,6 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Hibernate-59666CF?style=square&logo=Hibernate&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pandas-150458?style=square&logo=pandas&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=square&logo=Anaconda&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=square&logo=Mattermost&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=TensorFlow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=square&logo=OpenCV&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=square&logo=MariaDB&logoColor=white"/></a>
@@ -64,7 +61,6 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=square&logo=Redis&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/yolo-00FFFF?style=square&logo=yolo&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=square&logo=Google Colab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=square&logo=GitLab&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/NFC-002E5F?style=square&logo=NFC&logoColor=white"/></a>
@@ -73,11 +69,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=square&logo=npm&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=square&logo=IntelliJ IDEA&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=square&logo=FileZilla&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=square&logo=Arduino&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=square&logo=Ethereum&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Blockchain.com-121D33?style=square&logo=Blockchain.com&logoColor=white"/></a>
@@ -87,6 +79,7 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=square&logo=Solidity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Remix-000000?style=square&logo=Remix&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=Go&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/graphql-E10098?style=square&logo=graphql&logoColor=white"/></a>
   </br>
 </div>
 <div align=center>
