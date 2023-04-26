@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요, 정명관입니다!%20&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요,%20정명관입니다!&fontSize=90" />
 	<h2>👌 Introduction</h2>
 	안녕하세요! 백엔드로서 프로젝트를 여럿 수행한 바 있으며,<br>
 	현재는 공부중인 정명관 입니다.<br><br>
