@@ -8,8 +8,9 @@
 	* 노션
 	<a href="https://coherent-buffer-590.notion.site/4fe36be52960479e820a59a58582e4c4">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<br>
 	* Tistory
-	<a href="https://coherent-buffer-590.notion.site/4fe36be52960479e820a59a58582e4c4">
+	<a href="https://back-diary.tistory.com">
 	<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white" />
 </div>
 <div align=center>
