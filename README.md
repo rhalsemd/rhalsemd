@@ -6,10 +6,13 @@
 	아직 부족한 점이 많기 때문에 열심히 기술스택을 쌓고 프로젝트를 통해 발전 중 입니다!<br>
 	아래에는 노션 및 블로그 링크 입니다!<br>
 	노션
+	<br>
 	<a href="https://coherent-buffer-590.notion.site/4fe36be52960479e820a59a58582e4c4">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<br>
+	<br>
 	Tistory
+	<br>
 	<a href="https://back-diary.tistory.com">
 	<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white" />
 </div>
