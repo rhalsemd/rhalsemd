@@ -21,15 +21,13 @@
 <h2>🏆 Baekjoon solved rank</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalsemd)](https://solved.ac/rhalsemd)<br/>
-![Alt text](/path/to/img.jpg)
 
 </div>
 
 <div align=center>
-	<h2>💫 Most Used Languages</h2>
-	<!--START_SECTION:top_langs-->
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)](https://github.com/rhalsemd)
-	<!--END_SECTION:top_langs-->
+<h2>💫 Most Used Languages</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)](https://github.com/rhalsemd)<br/>
 
 </div>
 <div align=center style="display: flex; align-items: flex-start; justify-content: center;">
