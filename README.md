@@ -26,10 +26,6 @@
 
 <div align=center>
 	<h2>💫 Most Used Languages</h2>
-<!-- 사용 기술 스택 순위 안되는 경우 주석 코드로 바꿀것
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)
-	</br>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhalsemd&langs_count=8)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)
 	</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&langs_count=8)
