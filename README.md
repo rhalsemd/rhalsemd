@@ -26,7 +26,9 @@
 
 <div align=center>
 	<h2>💫 Most Used Languages</h2>
+	<!--START_SECTION:top_langs-->
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)](https://github.com/rhalsemd)
+	<!--END_SECTION:top_langs-->
 
 </div>
 <div align=center style="display: flex; align-items: flex-start; justify-content: center;">
