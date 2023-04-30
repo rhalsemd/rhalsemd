@@ -26,7 +26,7 @@
 
 <div align=center>
 	<h2>💫 Most Used Languages</h2>
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)]
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)]<br>
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&langs_count=8)]
 
 </div>
