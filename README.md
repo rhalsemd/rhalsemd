@@ -26,10 +26,10 @@
 
 <div align=center>
 <h2>💫 Most Used Languages</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&langs_count=10&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&langs_count=8)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align=center style="display: flex; align-items: flex-start; justify-content: center;">
