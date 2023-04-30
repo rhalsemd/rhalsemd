@@ -21,6 +21,7 @@
 <h2>🏆 Baekjoon solved rank</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalsemd)](https://solved.ac/rhalsemd)<br/>
+![Alt text](/path/to/img.jpg)
 
 </div>
 
