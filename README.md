@@ -47,8 +47,6 @@
   </br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Hibernate-59666CF?style=square&logo=Hibernate&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pandas-150458?style=square&logo=pandas&logoColor=white"/></a>
