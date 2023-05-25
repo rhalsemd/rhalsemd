@@ -4,7 +4,8 @@
 	현재는 공부중인 정명관 입니다.<br><br>
 	백엔드에 주로 관심있고 프로젝트를 진행 중 입니다.,<br>
 	아직 부족한 점이 많기 때문에 열심히 기술스택을 쌓고 프로젝트를 통해 발전 중 입니다!<br>
-	아래에는 노션 및 티스토리 블로그입니다!<br>
+	아래에는 저에 대하여 정리해둔 페이지인 노션 링크와<br>
+	저의 평소 공부 기록을 정리한 티스토리 링크가 있습니다.<br>
 	참고하시면 감사하겠습니다!<br>
 	<a href="https://coherent-buffer-590.notion.site/4fe36be52960479e820a59a58582e4c4">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
