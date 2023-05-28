@@ -82,7 +82,6 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=square&logo=Solidity&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Remix-000000?style=square&logo=Remix&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=Go&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/graphql-E10098?style=square&logo=graphql&logoColor=white"/></a>
   </br>
 </div>
 <div align=center>
