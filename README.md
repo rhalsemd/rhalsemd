@@ -14,7 +14,7 @@
 🎓계명대학교 컴퓨터공학과 (2015.03. ~ 2022.02.)
 
 ## 💡Contact
-> :mailbox_with_mail: E-mail : rhalsemd@gmail.com
+> :mailbox_with_mail: E-mail : rhalsemd@gmail.com <br/>
 > [**노션**](https://www.notion.so/4fe36be52960479e820a59a58582e4c4)에서 저의 정보를 확인하실 수 있습니다. <br/>
 > [**Tistory**](https://back-diary.tistory.com)에서 저의 공부 활동을 확인하실 수 있습니다.
 
