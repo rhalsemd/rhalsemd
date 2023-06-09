@@ -9,15 +9,17 @@
 [**노력**](#)하며 [**성장**](#)을 즐기는 **백엔드 개발자 정명관**입니다.  
 사용자의 요구사항을 충족시키는 [**고품질의 솔루션**](#)을 [**소통**](#)하여 제공하는 개발자로 성장하기 위해 끊임없이 노력합니다.
 
-> [**노션**](https://www.notion.so/4fe36be52960479e820a59a58582e4c4)에서 저의 정보를 확인하실 수 있습니다.
+🧑Profile
+🏫달성고등학교 (2011.03 ~ 2014.02.)
+🎓계명대학교 컴퓨터공학과 (2015.03. ~ 2022.02.)
 
+## 💡Contact
+> [**노션**](https://www.notion.so/4fe36be52960479e820a59a58582e4c4)에서 저의 정보를 확인하실 수 있습니다.
 > :mailbox_with_mail: E-mail : rhalsemd@gmail.com
 
-## 👨🏻‍💻 Careers
-
+## 🎞️ Careers
 
 ## 🛠 Tech Stack
-
 ### Back-End
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white)
 <div align=left>
