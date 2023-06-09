@@ -25,8 +25,9 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&style=flat-square&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white)
 <div align=left>
 	<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="58" height="58" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="58" height="58" />
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" />
+    	<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="58" height="58" />
+    	<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" />
+	<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="58" height="58" />
 </div>
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?&style=flat-square&logo=C&logoColor=white)<br/>
