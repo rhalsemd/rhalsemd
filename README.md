@@ -26,17 +26,17 @@
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" />
 </div>
 
-![C](https://img.shields.io/badge/-C-A8B9CC?&style=flat-square&logo=C&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?&style=flat-square&logo=C&logoColor=white)<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)<br/>
 ![blockchain](https://img.shields.io/badge/-blockchaindotcom-121D33?&style=flat-square&logo=blockchaindotcom&logoColor=white) ![yolo](https://img.shields.io/badge/-yolo-00FFFF?&style=flat-square&logo=yolo&logoColor=white)
 
 ### DB & DevOps
-![mysql](https://img.shields.io/badge/-mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white) ![mariadb](https://img.shields.io/badge/-mariadb-003545?style=flat-square&logo=mariadb&logoColor=white)
-![redis](https://img.shields.io/badge/-redis-DC382D?&style=flat-square&logo=redis&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white) ![mariadb](https://img.shields.io/badge/-mariadb-003545?style=flat-square&logo=mariadb&logoColor=white)</br>
+![redis](https://img.shields.io/badge/-redis-DC382D?&style=flat-square&logo=redis&logoColor=white)<br/>
 ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Collaboration
-![git](https://img.shields.io/badge/-Git-F05032?style=square&logo=Git&logoColor=white) ![gitlab](https://img.shields.io/badge/-GitLab-FC6D26?style=square&logo=GitLab&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=square&logo=Github&logoColor=white)
+![git](https://img.shields.io/badge/-Git-F05032?style=square&logo=Git&logoColor=white) ![gitlab](https://img.shields.io/badge/-GitLab-FC6D26?style=square&logo=GitLab&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=square&logo=Github&logoColor=white)<br/>
 ![jirasoftware](https://img.shields.io/badge/-jirasoftware-0052CC?style=square&logo=jirasoftware&logoColor=white)
 
 ### Mobile
