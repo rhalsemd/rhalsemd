@@ -32,7 +32,7 @@
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?&style=flat-square&logo=C&logoColor=white)<br/>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)<br/>
-![blockchain](https://img.shields.io/badge/-blockchaindotcom-121D33?&style=flat-square&logo=blockchaindotcom&logoColor=white) ![yolo](https://img.shields.io/badge/-yolo-00FFFF?&style=flat-square&logo=yolo&logoColor=white)
+![blockchain](https://img.shields.io/badge/-blockchaindotcom-121D33?&style=flat-square&logo=blockchaindotcom&logoColor=white)
 
 ### DB & DevOps
 ![mysql](https://img.shields.io/badge/-mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white) ![mariadb](https://img.shields.io/badge/-mariadb-003545?style=flat-square&logo=mariadb&logoColor=white)</br>
