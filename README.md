@@ -41,7 +41,7 @@
 
 ### Collaboration
 ![git](https://img.shields.io/badge/-Git-F05032?style=square&logo=Git&logoColor=white) ![gitlab](https://img.shields.io/badge/-GitLab-FC6D26?style=square&logo=GitLab&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=square&logo=Github&logoColor=white)<br/>
-![jira](https://img.shields.io/badge/-jirasoftware-0052CC?style=square&logo=jirasoftware&logoColor=white)
+![jirasoftware](https://img.shields.io/badge/-jira-0052CC?style=square&logo=jirasoftware&logoColor=white)
 
 ### Mobile
 ![android](https://img.shields.io/badge/-android-3DDC84?style=square&logo=android&logoColor=white)
