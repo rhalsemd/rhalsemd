@@ -19,6 +19,7 @@
 > [**Tistory**](https://back-diary.tistory.com)에서 저의 공부 활동을 확인하실 수 있습니다.
 
 ## 🎞️ Careers
+- 없음
 
 ## 🛠 Tech Stack
 ### Back-End
