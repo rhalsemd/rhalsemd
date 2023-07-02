@@ -44,9 +44,6 @@
 ![git](https://img.shields.io/badge/-Git-F05032?style=square&logo=Git&logoColor=white) ![gitlab](https://img.shields.io/badge/-GitLab-FC6D26?style=square&logo=GitLab&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=square&logo=Github&logoColor=white)<br/>
 ![jirasoftware](https://img.shields.io/badge/-jira-0052CC?style=square&logo=jirasoftware&logoColor=white)
 
-### Mobile
-![android](https://img.shields.io/badge/-android-3DDC84?style=square&logo=android&logoColor=white)
-
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rhalsemd&layout=compact)](https://github.com/rhalsemd)<br/>
 [![Top Langs](https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=rhalsemd&langs_count=7)](https://github.com/rhalsemd)<br/>
 
