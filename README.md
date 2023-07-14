@@ -32,7 +32,6 @@
 </div>
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?&style=flat-square&logo=C&logoColor=white)<br/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)<br/>
 ![blockchaindotcom](https://img.shields.io/badge/-blockchain-121D33?&style=flat-square&logo=blockchaindotcom&logoColor=white)
 
 ### DB & DevOps
