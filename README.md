@@ -14,7 +14,7 @@
 🏫달성고등학교 (2011.03 ~ 2014.02) <br/>
 
 ## 💡Contact
-> :mailbox_with_mail: E-mail : myeongkwan1881@gmail.com <br/>
+> :mailbox_with_mail: E-mail : rhalsemd@gmail.com <br/>
 > [**노션**](https://www.notion.so/myeongkwan/4fe36be52960479e820a59a58582e4c4)에서 저의 정보를 확인하실 수 있습니다. <br/>
 > [**Tistory**](https://back-diary.tistory.com)에서 저의 공부 활동을 확인하실 수 있습니다.
 
