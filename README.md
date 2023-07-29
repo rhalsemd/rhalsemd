@@ -131,7 +131,6 @@
 
 ## :chart_with_upwards_trend: GitHub Stats & Baekjoon
 <div align=left>
-	<img src="https://ghchart.rshah.org/rhalsemd" />
 	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rhalsemd&show_icons=true">
 </div>
 
