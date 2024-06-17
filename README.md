@@ -19,7 +19,7 @@
 > [**Tistory**](https://back-diary.tistory.com)에서 저의 공부 활동을 확인하실 수 있습니다.
 
 ## 🎞️ Careers
-- 없음
+- 2024-07-01 ~ 엑소스피어랩스
 
 ## 🛠 Tech Stack
 ### Back-End
