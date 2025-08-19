@@ -6,7 +6,7 @@
 
 <h2>Introduce <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
 
-[**노력**](#)하며 [**성장**](#)을 즐기는 **백엔드 개발자 정명관**입니다.  
+[**노력**](#)하며 [**성장**](#)을 즐기는 **개발자 정명관**입니다.  
 사용자의 요구사항을 충족시키는 [**고품질의 솔루션**](#)을 [**소통**](#)하여 제공하는 개발자로 성장하기 위해 끊임없이 노력합니다.
 
 ## 🧑Profile
@@ -32,12 +32,10 @@
 </div>
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?&style=flat-square&logo=C&logoColor=white)<br/>
-![blockchaindotcom](https://img.shields.io/badge/-blockchain-121D33?&style=flat-square&logo=blockchaindotcom&logoColor=white)
 
 ### DB & DevOps
 ![mysql](https://img.shields.io/badge/-mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white) ![mariadb](https://img.shields.io/badge/-mariadb-003545?style=flat-square&logo=mariadb&logoColor=white)</br>
 ![redis](https://img.shields.io/badge/-redis-DC382D?&style=flat-square&logo=redis&logoColor=white)<br/>
-![docker](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Collaboration
 ![git](https://img.shields.io/badge/-Git-F05032?style=square&logo=Git&logoColor=white) ![gitlab](https://img.shields.io/badge/-GitLab-FC6D26?style=square&logo=GitLab&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=square&logo=Github&logoColor=white)<br/>
