@@ -19,7 +19,7 @@
 > [**Tistory**](https://back-diary.tistory.com)에서 저의 공부 활동을 확인하실 수 있습니다.
 
 ## 🎞️ Careers
-- 피타그래프 (2024-07-15 ~ 진행중)
+- 피타그래프 (2024-07-15 ~ 2026-08-31)
 
 ## 🛠 Tech Stack
 ### Back-End
